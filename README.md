@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@omer389](https://medium.com/@omer389)
 
-- 💬 Ask me about **Data preprocessing, Model creation and development**
+- 💬 Ask me about **Data preprocessing, Model creation, development and deployment**
 
 - 📫 How to reach me **omer389@g.skku.edu**
 
