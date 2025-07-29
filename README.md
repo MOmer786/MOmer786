@@ -1,26 +1,71 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Omer</h1>
-<h3 align="center">A passionate Deep and Machine Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+<h1 align="center">Hi 👋, I'm Muhammad Omer</h1>
+<h3 align="center">AI Researcher | Medical Imaging | Deep Learning Engineer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momer786&label=Profile%20views&color=0e75b6&style=flat" alt="momer786" /> </p>
 
-- 🔭 I’m currently working on **Fundus Image processing**
+---
 
-- 🌱 I’m currently learning **Semi-supervised and Self Supervised Learning**
+- 🔬 I’m currently working on **Fundus-based prediction of systemic biomarkers using AI**
+- 🧠 Interested in **Vision Transformers**, **Lightweight Medical AI**, and **Multimodal Fusion**
+- 🤝 Open to collaborations on **retinal imaging, OCT/UFI/CFI, and disease risk prediction**
+- 📝 I write about AI in healthcare on [Medium](https://medium.com/@omer389)
+- 📫 Reach me at: **omer389@g.skku.edu**
+- 📄 View my [LinkedIn Profile](https://www.linkedin.com/in/muhammad-omer-0ab05a191/)
 
-- 👯 I’m looking to collaborate on **Medical Image Datasets and Processing**
+---
 
-- 📝 I regularly write articles on [https://medium.com/@omer389](https://medium.com/@omer389)
+### 🧠 What I Know Best
+- **AI in Ophthalmology**: Biomarker prediction, segmentation, disease detection
+- **Deep Learning**: CNNs, Vision Transformers, Feature Fusion, MobileViT
+- **Data Science**: Preprocessing, model development, statistical analysis, and deployment
+- **Medical Datasets**: Fundus images, OCT, UWF, DICOM compliance, PACS integration
 
-- 💬 Ask me about **Data preprocessing, Model creation, development and deployment**
+---
 
-- 📫 How to reach me **omer389@g.skku.edu**
+### 💼 Tools and Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"/>
+</p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-omer-0ab05a191/](https://www.linkedin.com/in/muhammad-omer-0ab05a191/)
+---
 
-- ⚡ Fun fact **I can low-key sing, I like reading about History, I usually do leetcode problems in my free time. I also like doing 3D modelling, for that I have used Blender, 3DsMax so far.**
+### 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momer786&show_icons=true&locale=en&layout=compact" alt="momer786" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=momer786&show_icons=true&locale=en" alt="momer786" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=momer786" alt="momer786" /></p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/muhammad-omer-0ab05a191" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" /></a>
+  <a href="https://stackoverflow.com/users/12064097" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" /></a>
+  <a href="https://kaggle.com/momer389" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" /></a>
+  <a href="https://medium.com/@omer389" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+When I’m not debugging AI models, I’m either exploring historical documentaries, doing LeetCode, or designing 3D models in Blender & 3ds Max.
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
