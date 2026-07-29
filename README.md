@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MOmer786/MOmer786/main/assets/banner.svg" width="100%" alt="Retinal vessels resolving into systemic biomarker signal">
+</p>
+
 <h1 align="center">Muhammad Omer</h1>
 
 <p align="center">
@@ -92,4 +96,4 @@ I write about AI in healthcare on [Medium](https://medium.com/@omer389) — most
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momer786&layout=compact&hide_border=true&locale=en" alt="top languages">
 </details>
 
-<sub>Off-hours: historical documentaries, LeetCode, and 3D modelling in Blender — occasional renders at <a href="https://instagram.com/motive_dots">@motive_dots</a>.</sub>
+<sub>Off-hours: historical documentaries, LeetCode, and 3D modelling in Blender.</sub>
