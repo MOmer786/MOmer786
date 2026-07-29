@@ -27,31 +27,32 @@ I build deep learning systems that read the eye to infer the state of the body �
 
 ---
 
-## Selected Work
+## Why the Eye?
 
-**F2B-Net** — A MobileViT-based framework predicting 17 systemic biomarkers from a single fundus image, validated on 6,708 patients from Ajou University Hospital.
-<sub>*Under revision — Scientific Reports*</sub>
+The retina is the only place in the body where you can see arteries, veins, and neural tissue directly — no incision, no needle, no contrast agent. Sixty seconds and a camera.
 
-**Non-invasive hemoglobin estimation** — Smartphone-based anemia screening from fingernail bed and palpebral conjunctiva imaging.
-<sub>*Under review*</sub>
+That means the vascular damage caused by diabetes, hypertension, and kidney disease is *visible* long before it becomes symptomatic. The open question isn't whether the signal is there. It's how much of it a model can actually recover, how well that holds across scanners and populations, and whether clinicians end up trusting it.
 
-<!-- Add published papers here as they land, e.g.:
-**Paper Title.** Authors. *Journal*, Year. [[paper]](link) [[code]](link)
--->
-
-📄 Full list on [ResearchGate](https://www.researchgate.net/profile/Muhammad-Omer-20)
+That gap is what I work on.
 
 ---
 
-## Featured Repositories
+## What I'm Working On
 
-<!-- Replace these with your actual public repos, then pin the same ones on your profile -->
+- Scaling biomarker prediction beyond the usual suspects — moving past HbA1c and lipids toward the noisier, sparser labels most papers quietly drop
+- Fine-tuning retinal foundation models on Korean clinical cohorts, and measuring how much of their pretraining actually transfers
+- Prompt learning for medical vision-language models — can a text encoder carry clinical priors a pure vision backbone can't?
+- Making ablations honest: seed-stable results, no leakage through imputation, one row per patient
 
-| Repository | What it does |
-|---|---|
-| [`repo-name`](https://github.com/momer786/repo-name) | One-line description of the method and dataset |
-| [`repo-name`](https://github.com/momer786/repo-name) | One-line description of the method and dataset |
-| [`repo-name`](https://github.com/momer786/repo-name) | One-line description of the method and dataset |
+---
+
+## Data & Infrastructure
+
+**Modalities** — color fundus photography · OCT & OCT-A · ultra-widefield imaging · DICOM / PACS workflows
+
+**Scale** — hospital cohorts in the tens of thousands of images, with the messy label sparsity and class imbalance that come with real clinical data
+
+**Systems** — multi-GPU PyTorch training (DDP, AMP), remote Linux workstations and lab servers, reproducible experiment harnesses
 
 ---
 
@@ -72,15 +73,17 @@ I build deep learning systems that read the eye to infer the state of the body �
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
 </p>
 
-**Domain** — fundus / CFP, OCT & OCT-A, ultra-widefield imaging, DICOM, PACS workflows, multi-GPU training pipelines
+---
+
+## Writing
+
+I write about AI in healthcare on [Medium](https://medium.com/@omer389) — mostly the parts that don't make it into papers: what broke, what the ablation actually showed, and why a benchmark number rarely survives contact with a clinic.
 
 ---
 
-## Open To
-
-Collaborations on retinal imaging, oculomics, and systemic disease risk prediction — especially work involving multi-center datasets or foundation-model adaptation for ophthalmology.
-
-📫 **omer389@g.skku.edu**
+<p align="center">
+  <sub>📫 <b>omer389@g.skku.edu</b> · Suwon, South Korea</sub>
+</p>
 
 <details>
 <summary>GitHub stats</summary>
@@ -89,4 +92,4 @@ Collaborations on retinal imaging, oculomics, and systemic disease risk predicti
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=momer786&layout=compact&hide_border=true&locale=en" alt="top languages">
 </details>
 
-<sub>Off-hours: historical documentaries, LeetCode, and 3D modelling in Blender.</sub>
+<sub>Off-hours: historical documentaries, LeetCode, and 3D modelling in Blender — occasional renders at <a href="https://instagram.com/motive_dots">@motive_dots</a>.</sub>
