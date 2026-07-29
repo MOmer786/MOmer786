@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MOmer786/MOmer786/main/banner.svg?v=2" width="100%" alt="Retinal vessels resolving into systemic biomarker signal">
+  <img src="https://raw.githubusercontent.com/MOmer786/MOmer786/main/banner.svg?v=3" width="100%" alt="Retinal vessels resolving into systemic biomarker signal">
 </p>
 
 <h1 align="center">Muhammad Omer</h1>
